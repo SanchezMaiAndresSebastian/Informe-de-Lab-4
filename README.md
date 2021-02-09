@@ -16,6 +16,7 @@
 #### Números Imaginarios
 En ingeniería eléctrica, este tipo de número se denomina "número imaginario". Para distinguir los números imaginarios de los números reales, se utiliza la letra "j" (generalmente llamada operador j en ingeniería eléctrica). La letra j se coloca antes del número real para indicar su operación numérica imaginaria. Ejemplos de números imaginarios son: J3, J12, J100, etc. A continuación, el número complejo consta de dos partes diferentes pero estrechamente relacionadas, a saber, el "número real" más el "número imaginario". Un número complejo representa un número complejo bidimensional o un punto referenciado por dos ejes diferentes en el plano s. El eje horizontal se denomina "eje real" y el eje vertical se denomina "eje imaginario". Las partes real e imaginaria del número complejo Z se abrevian como Re (z) e Im (z), respectivamente.
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/1.png) 
 
 El valor del operador j es exactamente igual a √-1, la multiplicación continua por "j", (j x j) hará que j tenga los siguientes valores, -1, -j y 1. Dado que el operador j se usa generalmente para indicar la rotación en sentido antihorario de un vector, cada producto o potencia sucesiva "j", j 2, j 3, etc. forzará al vector a girar 90 ° en sentido antihorario, como se muestra a continuación. De manera similar, si multiplica los vectores para obtener el operador -j, el cambio de fase será -90 o rotación en sentido horario.
 
@@ -25,6 +26,7 @@ Por lo tanto, multiplicar el número imaginario por j 2 rotará el vector 180o e
 
 Los números complejos están representados por partes reales e imaginarias, y toman la siguiente forma generalizada: 
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/2.png) 
 Dónde:
 
   Z   - es el número complejo que representa el vector
@@ -33,6 +35,8 @@ Dónde:
   j   - se define por √ -1
   
   En forma rectangular, los números complejos se pueden expresar como puntos en un plano bidimensional llamados números complejos o planos-s. Entonces, por ejemplo, Z = 6 + j4 representa un solo punto cuyas coordenadas representan 6 en el eje real horizontal y 4 en el eje imaginario vertical.
+  
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/3.png) 
 
 El eje horizontal representa todos los números reales positivos en el lado derecho del eje imaginario vertical y todos los números reales negativos en el lado izquierdo del eje imaginario vertical. Todos los números imaginarios positivos están por encima del eje horizontal y todos los números imaginarios negativos están por debajo del eje real horizontal. Esto generará un plano bidimensional complejo que contiene cuatro cuadrantes diferentes etiquetados como QI, QII, QIII y QIV.
 
@@ -45,28 +49,41 @@ A diferencia de dibujar un rectángulo de puntos en un plano complejo, las coord
 Dado que la representación de las coordenadas polares de los puntos se basa en triángulos, podemos usar geometría de triángulo simple, especialmente trigonometría y el teorema de Pitágoras sobre triángulos, para encontrar el tamaño y el ángulo de números complejos. Recordamos de la escuela que la trigonometría se ocupa de la relación entre los lados y los ángulos de los triángulos, por lo que podemos describir la relación entre los lados como:
 
 #### Suma y resta
-
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/4.png) 
 #### Multiplicación y división de números complejos
 La multiplicación de números complejos en forma rectangular sigue más o menos las mismas reglas que el álgebra normal, y algunas reglas adicionales para la multiplicación continua por el operador j, donde: j 2 = -1. Entonces, por ejemplo, multiplicando nuestros dos vectores de A = 4 + J1 y B = 2 + j3 para obtener el siguiente resultado.
-
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/5.png) 
 
 Matemáticamente, la división de números complejos en forma rectangular es más difícil porque requiere el uso de una función de denominador conjugado para convertir el denominador de la ecuación en un número real. A esto se le llama "racionalización". A continuación, es mejor utilizar la "forma polar" para completar la división de números complejos, como veremos más adelante. Pero, tomando la forma rectangular como ejemplo, encontremos el valor del vector A dividido por el valor del vector B.
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/6.png) 
 
 #### La conversión entre la forma rectangular y forma polar
 
 En la forma rectangular podemos expresar un vector en términos de sus coordenadas rectangulares, siendo el eje horizontal de su eje real y el eje vertical siendo su eje imaginario o j-componente. En forma polar estos ejes real e imaginaria son simplemente representados por " Un ∠θ ". Luego, utilizando el ejemplo anterior, la relación entre la forma rectangular y forma polar se puede definir como.
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/7.png) 
+
 También podemos convertir de nuevo de forma rectangular a la forma polar de la siguiente manera.
 
 #### Convertir la Forma rectangular en forma polar, (R → P)
 
-Forma polar multiplicación y división
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/8.png) 
 
-forma rectangular es mejor para sumar y restar números complejos como vimos más arriba, pero la forma polar es a menudo mejor para multiplicar y dividir. Para multiplicar juntos dos vectores en forma polar, debemos multiplicar por primera vez juntos los dos módulos o magnitudes y luego sumar sus ángulos.
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/9.png) 
 
 #### La multiplicación en forma polar
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/12.png) 
 
 #### División en forma polar
+
+Forma rectangular es mejor para sumar y restar números complejos como vimos más arriba, pero la forma polar es a menudo mejor para multiplicar y dividir. Para multiplicar juntos dos vectores en forma polar, debemos multiplicar por primera vez juntos los dos módulos o magnitudes y luego sumar sus ángulos.
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/13.png) 
+
+
+
+
 
 ### 3.	LISTA DE COMPONENTES
 
@@ -84,17 +101,25 @@ forma rectangular es mejor para sumar y restar números complejos como vimos má
 
 __5.1__ Transforme a su forma polar:
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/14.png) 
 
 __5.2__ Transforme a su forma rectangular:
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/15.png) 
 
 __5.3__ Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/16.png) 
+
 __5.4__ Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/20.png) 
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/21.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/22.png) 
 
 
 __5.5__ Tabulacion de los datos
@@ -144,3 +169,19 @@ Tabla 3
 
 
 ### 10.	 ANEXOS
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/23.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/24.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/25.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/26.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/27.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/28.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/29.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/30.png) 
