@@ -1,5 +1,6 @@
 # Informe de Laboratorio #4
 ## Fasores
+
 ### 1.	OBJETIVOS
 
 **Principal**
@@ -90,11 +91,8 @@ Forma rectangular es mejor para sumar y restar números complejos como vimos má
 | 1 |Calculadora cientifica| 
 
  
-> (Herramientas utilizadas en simulación) 
-> Simulador thinkercad
 
-
-### 5.	EXPLICACIÓN
+### 4.	EXPLICACIÓN
 
 
 __5.1__ Transforme a su forma polar:
@@ -184,12 +182,12 @@ Tabla 3
  - Al resolver los fasores de forma anl{itica no hubo diferencias con el valor calculado con la calculadora debido a que si existe control sobre la cantidad de los numeros decimales que va a tener el operador.
 
 
-### 9.	BIBLIOGRAFÍA
+### 8.	BIBLIOGRAFÍA
 
 [1] MOLINA, A. and VEGA, F., 2021. 1.2 FASORES - Análisis de Circuitos II. [online] Sites.google.com. Available at: <https://sites.google.com/site/analisisdecircuitosupaep/senoides-y-fasores/1-2-fasores> [Accessed 9 February 2021].
 
 
-### 10.	 ANEXOS
+### 9.	 ANEXOS
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/23.png) 
 
