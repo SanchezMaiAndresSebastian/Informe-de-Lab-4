@@ -13,8 +13,26 @@
 - Validar los resultados con el emnro error posible
 
 ### 2.	MARCO TEÓRICO 
+#### Números Imaginarios
+En ingeniería eléctrica, este tipo de número se denomina "número imaginario". Para distinguir los números imaginarios de los números reales, se utiliza la letra "j" (generalmente llamada operador j en ingeniería eléctrica). La letra j se coloca antes del número real para indicar su operación numérica imaginaria. Ejemplos de números imaginarios son: J3, J12, J100, etc. A continuación, el número complejo consta de dos partes diferentes pero estrechamente relacionadas, a saber, el "número real" más el "número imaginario". Un número complejo representa un número complejo bidimensional o un punto referenciado por dos ejes diferentes en el plano s. El eje horizontal se denomina "eje real" y el eje vertical se denomina "eje imaginario". Las partes real e imaginaria del número complejo Z se abrevian como Re (z) e Im (z), respectivamente.
 
 
+El valor del operador j es exactamente igual a √-1, la multiplicación continua por "j", (j x j) hará que j tenga los siguientes valores, -1, -j y 1. Dado que el operador j se usa generalmente para indicar la rotación en sentido antihorario de un vector, cada producto o potencia sucesiva "j", j 2, j 3, etc. forzará al vector a girar 90 ° en sentido antihorario, como se muestra a continuación. De manera similar, si multiplica los vectores para obtener el operador -j, el cambio de fase será -90 o rotación en sentido horario.
+
+Por lo tanto, multiplicar el número imaginario por j 2 rotará el vector 180o en sentido antihorario, multiplicar por j 3 rotará 270o, y luego multiplicarlo por j 4 rotará 360o de regreso a su posición original. Multiplicar por j 10 o j 30 rotará el vector en sentido antihorario por la cantidad apropiada. En cada rotación sucesiva, la magnitud del vector es siempre la misma. En ingeniería eléctrica, los números complejos se pueden representar gráfica o matemáticamente. Un método utilizado por las reglas del coseno y del seno se llama cartesiano o rectangular.
+
+#### Los números complejos utilizando la forma rectangular
+
+Los números complejos están representados por partes reales e imaginarias, y toman la siguiente forma generalizada: 
+
+Dónde:
+
+  Z   - es el número complejo que representa el vector
+  x   - es la parte real o el componente activo
+  y   - es la parte imaginaria o el componente reactiva
+  j   - se define por √ -1
+  
+  En forma rectangular, los números complejos se pueden expresar como puntos en un plano bidimensional llamados números complejos o planos-s. Entonces, por ejemplo, Z = 6 + j4 representa un solo punto cuyas coordenadas representan 6 en el eje real horizontal y 4 en el eje imaginario vertical.
 
 
 ### 3.	LISTA DE COMPONENTES
