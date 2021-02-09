@@ -21,7 +21,7 @@
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
-| 1 |Claculadora cientifica| 
+| 1 |Calculadora cientifica| 
 
  
 > (Herramientas utilizadas en simulación) 
