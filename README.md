@@ -34,6 +34,31 @@ Dónde:
   
   En forma rectangular, los números complejos se pueden expresar como puntos en un plano bidimensional llamados números complejos o planos-s. Entonces, por ejemplo, Z = 6 + j4 representa un solo punto cuyas coordenadas representan 6 en el eje real horizontal y 4 en el eje imaginario vertical.
 
+El eje horizontal representa todos los números reales positivos en el lado derecho del eje imaginario vertical y todos los números reales negativos en el lado izquierdo del eje imaginario vertical. Todos los números imaginarios positivos están por encima del eje horizontal y todos los números imaginarios negativos están por debajo del eje real horizontal. Esto generará un plano bidimensional complejo que contiene cuatro cuadrantes diferentes etiquetados como QI, QII, QIII y QIV.
+
+Los números complejos también pueden tener "cero" partes reales o imaginarios, tales como: Z = 6 + j0   o   Z = 0 + j4 . En este caso, los puntos se representan directamente en el eje real o imaginario. Además, el ángulo de un número complejo se puede calcular utilizando la trigonometría simple calcular los ángulos de triángulos rectángulos, o se mide en sentido antihorario alrededor del diagrama de Argand a partir del eje real positivo.
+
+#### Los números complejos usando la Forma Polar
+
+A diferencia de dibujar un rectángulo de puntos en un plano complejo, las coordenadas polares de un número complejo se escriben de acuerdo con su tamaño y ángulo. Por lo tanto, la forma del vector polar es: Z = A∠ ± θ, donde: Z es el número complejo de la forma polar, A es la magnitud o módulo del vector y θ es el ángulo de A o la variable independiente puede ser positivo o negativo. El tamaño y el ángulo del punto son los mismos que los del rectángulo de arriba, esta vez se muestra en forma polar, y la posición del punto está representada por un "triángulo" como se muestra a continuación.
+
+Dado que la representación de las coordenadas polares de los puntos se basa en triángulos, podemos usar geometría de triángulo simple, especialmente trigonometría y el teorema de Pitágoras sobre triángulos, para encontrar el tamaño y el ángulo de números complejos. Recordamos de la escuela que la trigonometría se ocupa de la relación entre los lados y los ángulos de los triángulos, por lo que podemos describir la relación entre los lados como:
+
+#### La conversión entre la forma rectangular y forma polar
+
+En la forma rectangular podemos expresar un vector en términos de sus coordenadas rectangulares, siendo el eje horizontal de su eje real y el eje vertical siendo su eje imaginario o j-componente. En forma polar estos ejes real e imaginaria son simplemente representados por " Un ∠θ ". Luego, utilizando el ejemplo anterior, la relación entre la forma rectangular y forma polar se puede definir como.
+
+También podemos convertir de nuevo de forma rectangular a la forma polar de la siguiente manera.
+
+#### Convertir la Forma rectangular en forma polar, (R → P)
+
+Forma polar multiplicación y división
+
+forma rectangular es mejor para sumar y restar números complejos como vimos más arriba, pero la forma polar es a menudo mejor para multiplicar y dividir. Para multiplicar juntos dos vectores en forma polar, debemos multiplicar por primera vez juntos los dos módulos o magnitudes y luego sumar sus ángulos.
+
+#### La multiplicación en forma polar
+
+#### División en forma polar
 
 ### 3.	LISTA DE COMPONENTES
 
@@ -53,84 +78,66 @@ Aramar el circuito
 
 ###### _FIGURA 4_
 
-__5.1__ Calculos de forma teorica
 
-- Calcular la corriente en las mallas
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/14.png) 
+__5.1__ Transforme a su forma polar:
 
-- Calcular el voltaje 
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/15.png)
+__5.2__ Transforme a su forma rectangular:
 
-- Calcular La corriente de los nodos
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/16.png) 
+__5.3__ Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar.
 
-- Calculo del error porcentual
+__5.4__ Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/17.png) 
 
-__5.2__ Tabulacion de los datos
 
-__5.2.1__ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
+
+__5.5__ Tabulacion de los datos
+
+__5.5.1__ Resultados obtenidos de Transforme a su forma polar y su error porcentual:
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/18.png) 
 
 Tabla 1
 
-__5.2.2__ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
-considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
-signo negativo. Anote los resultados en la tabla 1
+__5.5.2__ Resultados obtenidos de Transforme a su forma rectangular y su error porcentual:
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/19.png) 
 
 Tabla 2
 
-__5.2.3__ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
-con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
-del nodo. Anote los resultados en la tabla 2.
+__5.5.3__ Resultados obtenidos de realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar y su error porcentual:
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/20.png) 
 
 Tabla 3
 
-__5.2.4__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
-analíticamente y concluya al respecto.
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/21.png) 
-
-Tabla 4
-
-__5.2.5__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
-analíticamente y concluya al respecto.
 
 
 
-En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro)
-Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente
-Terminamos midiendo el voltaje de cada resistor 
 
-### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
- - Siempre tener conectado a una fuente de corriente continua
- - Tener la fuente de voltaje configurada para la medición en voltios
- - Tener el multímetro siempre en la configurada en la medición de voltios 
+### 5.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+ - Tener a la claculadora en en el modo RPD para hacer los calculos con numeros imaginarios
+ - Configurar para que tenga cuatro digitos (Opcional)
+
  
-### 7.	APORTACIONES
+### 6.	APORTACIONES
 
- - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
- - No es lo mismo la medición de voltaje con corriente 
- - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
- - LLa fuente de corriente directa mide cuantos amperios tiene el circuito.
+ - Hay grandes diferencias en calculadoras en online, pero no en calcladoras cientificas
  
-### 8.	CONCLUSIONES
- - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
- - Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - Cuando en unn resistor se encuentra aplicado con el multímetro la medicion de su corriente, cambia el voltaje de los demas resistores que se tienen midiendo con los demás herraminetas
+ 
+### 7.	CONCLUSIONES
+ - Al resolver los fasores de forma anl{itica no hubo diferencias con el valor calculado con la calculadora debido a que si existe control sobre la cantidad de los numeros decimales que va a tener el operador.
+
 
 ### 9.	BIBLIOGRAFÍA
 
-[1]Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion. Serway,
+[1] MOLINA, A. and VEGA, F., 2021. 1.2 FASORES - Análisis de Circuitos II. [online] Sites.google.com. Available at: <https://sites.google.com/site/analisisdecircuitosupaep/senoides-y-fasores/1-2-fasores> [Accessed 9 February 2021].
 
-[2]R. (2001). Fisica II. Mexico: Pearson Educacion.
+
 ### 10.	 ANEXOS
