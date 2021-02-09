@@ -27,6 +27,7 @@ Por lo tanto, multiplicar el número imaginario por j 2 rotará el vector 180o e
 Los números complejos están representados por partes reales e imaginarias, y toman la siguiente forma generalizada: 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/2.png) 
+
 Dónde:
 
   Z   - es el número complejo que representa el vector
@@ -82,9 +83,6 @@ Forma rectangular es mejor para sumar y restar números complejos como vimos má
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/13.png) 
 
 
-
-
-
 ### 3.	LISTA DE COMPONENTES
 
 | Cantidad | Componentes | 
@@ -114,6 +112,29 @@ forma rectangular como en su forma polar.
 
 __5.4__ Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
+
+Transforme a su forma polar:
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/31.jpg) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/32.jpg) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/33.jpg) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/34.jpg)
+
+Transforme a su forma rectangular:
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/35.jpg) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/36.jpg) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/37.jpg) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/38.jpg) 
+
+Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/20.png) 
 
