@@ -44,6 +44,14 @@ A diferencia de dibujar un rectángulo de puntos en un plano complejo, las coord
 
 Dado que la representación de las coordenadas polares de los puntos se basa en triángulos, podemos usar geometría de triángulo simple, especialmente trigonometría y el teorema de Pitágoras sobre triángulos, para encontrar el tamaño y el ángulo de números complejos. Recordamos de la escuela que la trigonometría se ocupa de la relación entre los lados y los ángulos de los triángulos, por lo que podemos describir la relación entre los lados como:
 
+#### Suma y resta
+
+#### Multiplicación y división de números complejos
+La multiplicación de números complejos en forma rectangular sigue más o menos las mismas reglas que el álgebra normal, y algunas reglas adicionales para la multiplicación continua por el operador j, donde: j 2 = -1. Entonces, por ejemplo, multiplicando nuestros dos vectores de A = 4 + J1 y B = 2 + j3 para obtener el siguiente resultado.
+
+
+Matemáticamente, la división de números complejos en forma rectangular es más difícil porque requiere el uso de una función de denominador conjugado para convertir el denominador de la ecuación en un número real. A esto se le llama "racionalización". A continuación, es mejor utilizar la "forma polar" para completar la división de números complejos, como veremos más adelante. Pero, tomando la forma rectangular como ejemplo, encontremos el valor del vector A dividido por el valor del vector B.
+
 #### La conversión entre la forma rectangular y forma polar
 
 En la forma rectangular podemos expresar un vector en términos de sus coordenadas rectangulares, siendo el eje horizontal de su eje real y el eje vertical siendo su eje imaginario o j-componente. En forma polar estos ejes real e imaginaria son simplemente representados por " Un ∠θ ". Luego, utilizando el ejemplo anterior, la relación entre la forma rectangular y forma polar se puede definir como.
@@ -72,11 +80,6 @@ forma rectangular es mejor para sumar y restar números complejos como vimos má
 
 
 ### 5.	EXPLICACIÓN
-Aramar el circuito
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/13.png) 
-
-###### _FIGURA 4_
 
 
 __5.1__ Transforme a su forma polar:
@@ -98,7 +101,7 @@ __5.5__ Tabulacion de los datos
 
 __5.5.1__ Resultados obtenidos de Transforme a su forma polar y su error porcentual:
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/18.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/18.png) 
 
 Tabla 1
 
