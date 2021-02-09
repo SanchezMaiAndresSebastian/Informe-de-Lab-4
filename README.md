@@ -101,20 +101,20 @@ __5.5__ Tabulacion de los datos
 
 __5.5.1__ Resultados obtenidos de Transforme a su forma polar y su error porcentual:
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/18.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/17.png) 
 
 Tabla 1
 
 __5.5.2__ Resultados obtenidos de Transforme a su forma rectangular y su error porcentual:
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/19.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/18.png) 
 
 Tabla 2
 
 __5.5.3__ Resultados obtenidos de realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar y su error porcentual:
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/20.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-de-Lab-4/blob/main/Fotos/19.png) 
 
 Tabla 3
 
